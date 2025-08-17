@@ -4,7 +4,7 @@
   <name>arduinobot_remote</name>
   <version>0.0.0</version>
   <description>The arduinobot_remote package</description>
-  <maintainer email="antonio.brandi@outlook.it">Antonio Brandi</maintainer>
+  <maintainer email="shramansantara1@gmail.com">ShramanSantara</maintainer>
   <license>Apache 2.0</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
